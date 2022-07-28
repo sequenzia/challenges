@@ -8,7 +8,7 @@ Foobar is entirely invintation only and if you do not commplete the challenges i
 - Level 4: Two Questions — 2 weeks for each question
 - Level 5: One Question — 22 days
 
-### Whats here?
+### What's here?
 5 levels with 9 progressively harder questions:
 
 - [01-01: Re IDs](/01_01_Re_ID)
@@ -22,4 +22,7 @@ Foobar is entirely invintation only and if you do not commplete the challenges i
 - [05-01: Expanding Nebula](/05_01_Expanding_Nebula)
 
 
-***I will soon be adding details of the solutions and logic behind them***
+**I plan on adding details of the solutions and logic behind them soon***
+
+#### After Completing
+![](https://github.com/sequenzia/challenges/blob/master/google_foobar/foobar.gif)
