@@ -11,15 +11,15 @@ Foobar is entirely invintation only and if you do not commplete the challenges i
 ### What's here?
 5 levels with 9 progressively harder questions:
 
-- [01-01: Re IDs](/01_01_Re_ID)
-- [02-01: Bunny Prisoner Locating](/02_01_Bunny_Prisoner_Locating)
-- [02-02: Gearing Up for Destruction](/02_02_Gearing_Up_for_Destruction)
-- [03-01: Queue To Do](/03_01_Queue_To_Do)
-- [03-02: Fuel Injection Perfection](/03_02_Fuel_Injection_Perfection)
-- [03-03: Doomsday Fuel](/03_03_Doomsday_Fuel)
-- [04-01: Bringing a Gun to a Trainer Fight](/04_01_Bringing_a_Gun_to_a_Trainer_Fight)
-- [04-02: Escape Pods](/04_02_Escape_Pods)
-- [05-01: Expanding Nebula](/05_01_Expanding_Nebula)
+- [01-01: Re IDs](https://github.com/sequenzia/challenges/tree/master/google_foobar/01_01_Re_ID)
+- [02-01: Bunny Prisoner Locating](https://github.com/sequenzia/challenges/tree/master/google_foobar/02_01_Bunny_Prisoner_Locating)
+- [02-02: Gearing Up for Destruction](https://github.com/sequenzia/challenges/tree/master/google_foobar/02_02_Gearing_Up_for_Destruction)
+- [03-01: Queue To Do](https://github.com/sequenzia/challenges/tree/master/google_foobar/03_01_Queue_To_Do)
+- [03-02: Fuel Injection Perfection](https://github.com/sequenzia/challenges/tree/master/google_foobar/03_02_Fuel_Injection_Perfection)
+- [03-03: Doomsday Fuel](https://github.com/sequenzia/challenges/tree/master/google_foobar/03_03_Doomsday_Fuel)
+- [04-01: Bringing a Gun to a Trainer Fight](https://github.com/sequenzia/challenges/tree/master/google_foobar/04_01_Bringing_a_Gun_to_a_Trainer_Fight)
+- [04-02: Escape Pods](https://github.com/sequenzia/challenges/tree/master/google_foobar/04_02_Escape_Pods)
+- [05-01: Expanding Nebula](https://github.com/sequenzia/challenges/tree/master/google_foobar/05_01_Expanding_Nebula)
 
 
 **I plan on adding details of the solutions and logic behind them soon***
